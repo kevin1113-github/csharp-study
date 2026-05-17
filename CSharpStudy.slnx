@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ExampleConsoleApp/ExampleConsoleApp.csproj" />
+  <Project Path="HW01/HW01.csproj" />
   <Project Path="Proj01/Proj01.csproj" />
 </Solution>
