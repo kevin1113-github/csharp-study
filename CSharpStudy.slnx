@@ -1,5 +1,8 @@
 <Solution>
+  <Project Path="Example02/Example02.csproj" Id="ed6e1ac1-5339-4d41-a7c3-6b283bd15f30" />
   <Project Path="ExampleConsoleApp/ExampleConsoleApp.csproj" />
   <Project Path="HW01/HW01.csproj" />
+  <Project Path="HW02/HW02.csproj" Id="8f00c9b1-20a7-4cb2-a058-052fc66785a2" />
   <Project Path="Proj01/Proj01.csproj" />
+  <Project Path="Proj02/Proj02.csproj" Id="36ea547c-930d-4c1e-ab9e-113d27c55d97" />
 </Solution>
